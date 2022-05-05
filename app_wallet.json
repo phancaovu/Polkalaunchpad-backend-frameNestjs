@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "polkafantasy-launchpad",
+      "script": "dist/main.js"
+    }
+  ]
+}
